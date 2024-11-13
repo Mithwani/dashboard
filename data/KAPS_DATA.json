@@ -1,0 +1,1479 @@
+{
+  "2019_Q1": {
+      "Mean": {
+          "LST_MEAN": 41.90838973,
+          "CARBON_MEAN": 0.02783887291,
+          "GR_PERCENT": 13.6744486
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 40.30568388,
+          "CARBON_MEAN": 0.028151,
+          "GR_PERCENT": 15.29719743
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 39.12586616,
+          "CARBON_MEAN": 0.027472,
+          "GR_PERCENT": 14.89435182
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 44.80006952,
+          "CARBON_MEAN": 0.027887,
+          "GR_PERCENT": 0.09694355366
+      },
+      "Embakasi East": {
+          "LST_MEAN": 45.16572845,
+          "CARBON_MEAN": 0.027776,
+          "GR_PERCENT": 0.2642789807
+      },
+      "Embakasi North": {
+          "LST_MEAN": 43.81841294,
+          "CARBON_MEAN": 0.027969,
+          "GR_PERCENT": 0.8030108043
+      },
+      "Embakasi South": {
+          "LST_MEAN": 44.46621868,
+          "CARBON_MEAN": 0.027696,
+          "GR_PERCENT": 0.1190164294
+      },
+      "Embakasi West": {
+          "LST_MEAN": 43.37495754,
+          "CARBON_MEAN": 0.027953,
+          "GR_PERCENT": 0.1238023207
+      },
+      "Kamukunji": {
+          "LST_MEAN": 43.24643787,
+          "CARBON_MEAN": 0.028234,
+          "GR_PERCENT": 1.070504634
+      },
+      "Kasarani": {
+          "LST_MEAN": 44.58393573,
+          "CARBON_MEAN": 0.027875,
+          "GR_PERCENT": 1.976446507
+      },
+      "Kibra": {
+          "LST_MEAN": 42.01207119,
+          "CARBON_MEAN": 0.028233,
+          "GR_PERCENT": 5.292731031
+      },
+      "Langata": {
+          "LST_MEAN": 40.46961576,
+          "CARBON_MEAN": 0.027781,
+          "GR_PERCENT": 17.96529416
+      },
+      "Makadara": {
+          "LST_MEAN": 44.2425708,
+          "CARBON_MEAN": 0.028109,
+          "GR_PERCENT": 0.1753625287
+      },
+      "Mathare": {
+          "LST_MEAN": 44.42644395,
+          "CARBON_MEAN": 0.028114,
+          "GR_PERCENT": 0.6074684646
+      },
+      "Roysambu": {
+          "LST_MEAN": 41.62693094,
+          "CARBON_MEAN": 0.028042,
+          "GR_PERCENT": 13.96083917
+      },
+      "Ruaraka": {
+          "LST_MEAN": 43.81979386,
+          "CARBON_MEAN": 0.028002,
+          "GR_PERCENT": 1.623884491
+      },
+      "Starehe": {
+          "LST_MEAN": 43.64618797,
+          "CARBON_MEAN": 0.028284,
+          "GR_PERCENT": 0.8898933092
+      },
+      "Westlands": {
+          "LST_MEAN": 37.4340696,
+          "CARBON_MEAN": 0.027624,
+          "GR_PERCENT": 44.85442643
+      }
+  },
+  "2019_Q2": {
+      "Mean": {
+          "LST_MEAN": 38.56857295,
+          "CARBON_MEAN": 0.02529605215,
+          "GR_PERCENT": 13.54443848
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 32.95806769,
+          "CARBON_MEAN": 0.025313,
+          "GR_PERCENT": 16.92623718
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 33.4691537,
+          "CARBON_MEAN": 0.025119,
+          "GR_PERCENT": 14.12510918
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 41.77157186,
+          "CARBON_MEAN": 0.025236,
+          "GR_PERCENT": 0.2614195921
+      },
+      "Embakasi East": {
+          "LST_MEAN": 43.79321781,
+          "CARBON_MEAN": 0.025241,
+          "GR_PERCENT": 0.386741311
+      },
+      "Embakasi North": {
+          "LST_MEAN": 40.15513103,
+          "CARBON_MEAN": 0.025439,
+          "GR_PERCENT": 1.196215978
+      },
+      "Embakasi South": {
+          "LST_MEAN": 42.23550158,
+          "CARBON_MEAN": 0.025272,
+          "GR_PERCENT": 0.1339688805
+      },
+      "Embakasi West": {
+          "LST_MEAN": 41.65876006,
+          "CARBON_MEAN": 0.025369,
+          "GR_PERCENT": 0.3150328931
+      },
+      "Kamukunji": {
+          "LST_MEAN": 37.31366292,
+          "CARBON_MEAN": 0.025362,
+          "GR_PERCENT": 0.6226401676
+      },
+      "Kasarani": {
+          "LST_MEAN": 43.81855497,
+          "CARBON_MEAN": 0.02539,
+          "GR_PERCENT": 1.259173037
+      },
+      "Kibra": {
+          "LST_MEAN": 36.38183322,
+          "CARBON_MEAN": 0.025363,
+          "GR_PERCENT": 6.973740406
+      },
+      "Langata": {
+          "LST_MEAN": 36.26472069,
+          "CARBON_MEAN": 0.025188,
+          "GR_PERCENT": 19.76918898
+      },
+      "Makadara": {
+          "LST_MEAN": 40.17471659,
+          "CARBON_MEAN": 0.025337,
+          "GR_PERCENT": 0.2487571917
+      },
+      "Mathare": {
+          "LST_MEAN": 37.07903626,
+          "CARBON_MEAN": 0.025398,
+          "GR_PERCENT": 0.3633061905
+      },
+      "Roysambu": {
+          "LST_MEAN": 39.7188172,
+          "CARBON_MEAN": 0.02562,
+          "GR_PERCENT": 11.46725001
+      },
+      "Ruaraka": {
+          "LST_MEAN": 37.94322944,
+          "CARBON_MEAN": 0.025494,
+          "GR_PERCENT": 1.572838518
+      },
+      "Starehe": {
+          "LST_MEAN": 39.08048617,
+          "CARBON_MEAN": 0.025323,
+          "GR_PERCENT": 0.8537027497
+      },
+      "Westlands": {
+          "LST_MEAN": 32.50032833,
+          "CARBON_MEAN": 0.02529,
+          "GR_PERCENT": 43.40436381
+      }
+  },
+  "2019_Q3": {
+      "Mean": {
+          "LST_MEAN": 42.4957699,
+          "CARBON_MEAN": 0.02625473456,
+          "GR_PERCENT": 16.17646393
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 38.52843244,
+          "CARBON_MEAN": 0.026707,
+          "GR_PERCENT": 17.53371536
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 38.08186275,
+          "CARBON_MEAN": 0.026213,
+          "GR_PERCENT": 20.18023595
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 47.07657278,
+          "CARBON_MEAN": 0.0265,
+          "GR_PERCENT": 0.2201427669
+      },
+      "Embakasi East": {
+          "LST_MEAN": 48.53957501,
+          "CARBON_MEAN": 0.026335,
+          "GR_PERCENT": 0.4447526878
+      },
+      "Embakasi North": {
+          "LST_MEAN": 46.61876762,
+          "CARBON_MEAN": 0.026447,
+          "GR_PERCENT": 1.160508199
+      },
+      "Embakasi South": {
+          "LST_MEAN": 43.28125357,
+          "CARBON_MEAN": 0.026086,
+          "GR_PERCENT": 0.3200366376
+      },
+      "Embakasi West": {
+          "LST_MEAN": 45.13971709,
+          "CARBON_MEAN": 0.026366,
+          "GR_PERCENT": 0.7650791459
+      },
+      "Kamukunji": {
+          "LST_MEAN": 44.82954503,
+          "CARBON_MEAN": 0.026818,
+          "GR_PERCENT": 1.429010867
+      },
+      "Kasarani": {
+          "LST_MEAN": 49.69939438,
+          "CARBON_MEAN": 0.026256,
+          "GR_PERCENT": 1.846617945
+      },
+      "Kibra": {
+          "LST_MEAN": 40.6136521,
+          "CARBON_MEAN": 0.026617,
+          "GR_PERCENT": 14.82279173
+      },
+      "Langata": {
+          "LST_MEAN": 37.76678945,
+          "CARBON_MEAN": 0.025829,
+          "GR_PERCENT": 23.9067716
+      },
+      "Makadara": {
+          "LST_MEAN": 44.81951126,
+          "CARBON_MEAN": 0.02669,
+          "GR_PERCENT": 0.211444013
+      },
+      "Mathare": {
+          "LST_MEAN": 44.2365016,
+          "CARBON_MEAN": 0.026691,
+          "GR_PERCENT": 0.4844079955
+      },
+      "Roysambu": {
+          "LST_MEAN": 44.0663475,
+          "CARBON_MEAN": 0.026542,
+          "GR_PERCENT": 12.90323284
+      },
+      "Ruaraka": {
+          "LST_MEAN": 45.04003557,
+          "CARBON_MEAN": 0.026519,
+          "GR_PERCENT": 2.459121762
+      },
+      "Starehe": {
+          "LST_MEAN": 43.89639737,
+          "CARBON_MEAN": 0.026809,
+          "GR_PERCENT": 0.9937254534
+      },
+      "Westlands": {
+          "LST_MEAN": 36.26800006,
+          "CARBON_MEAN": 0.026722,
+          "GR_PERCENT": 46.48590938
+      }
+  },
+  "2019_Q4": {
+      "Mean": {
+          "LST_MEAN": 35.44466981,
+          "CARBON_MEAN": 0.0270419439,
+          "GR_PERCENT": 17.37263507
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 34.12274241,
+          "CARBON_MEAN": 0.027226,
+          "GR_PERCENT": 11.31088415
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 33.18341369,
+          "CARBON_MEAN": 0.026839,
+          "GR_PERCENT": 17.55173731
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 39.41232806,
+          "CARBON_MEAN": 0.027278,
+          "GR_PERCENT": 0.5503565747
+      },
+      "Embakasi East": {
+          "LST_MEAN": 39.91798283,
+          "CARBON_MEAN": 0.027122,
+          "GR_PERCENT": 0.6408811685
+      },
+      "Embakasi North": {
+          "LST_MEAN": 41.50518388,
+          "CARBON_MEAN": 0.027086,
+          "GR_PERCENT": 0.3392251353
+      },
+      "Embakasi South": {
+          "LST_MEAN": 39.17911016,
+          "CARBON_MEAN": 0.027048,
+          "GR_PERCENT": 2.753786228
+      },
+      "Embakasi West": {
+          "LST_MEAN": 41.59545142,
+          "CARBON_MEAN": 0.027212,
+          "GR_PERCENT": 0.3037816931
+      },
+      "Kamukunji": {
+          "LST_MEAN": 38.26608354,
+          "CARBON_MEAN": 0.027252,
+          "GR_PERCENT": 1.061549432
+      },
+      "Kasarani": {
+          "LST_MEAN": 40.34169177,
+          "CARBON_MEAN": 0.026949,
+          "GR_PERCENT": 1.566725094
+      },
+      "Kibra": {
+          "LST_MEAN": 37.24084635,
+          "CARBON_MEAN": 0.027361,
+          "GR_PERCENT": 14.68647311
+      },
+      "Langata": {
+          "LST_MEAN": 35.90263997,
+          "CARBON_MEAN": 0.027012,
+          "GR_PERCENT": 27.26491203
+      },
+      "Makadara": {
+          "LST_MEAN": 40.07988982,
+          "CARBON_MEAN": 0.027308,
+          "GR_PERCENT": 0.08084625242
+      },
+      "Mathare": {
+          "LST_MEAN": 38.63507341,
+          "CARBON_MEAN": 0.0271,
+          "GR_PERCENT": 0.7871626963
+      },
+      "Roysambu": {
+          "LST_MEAN": 35.40514388,
+          "CARBON_MEAN": 0.027132,
+          "GR_PERCENT": 13.2406905
+      },
+      "Ruaraka": {
+          "LST_MEAN": 39.60195858,
+          "CARBON_MEAN": 0.027052,
+          "GR_PERCENT": 1.984767738
+      },
+      "Starehe": {
+          "LST_MEAN": 38.89276466,
+          "CARBON_MEAN": 0.027305,
+          "GR_PERCENT": 0.9530724118
+      },
+      "Westlands": {
+          "LST_MEAN": 30.75126216,
+          "CARBON_MEAN": 0.026952,
+          "GR_PERCENT": 39.58516919
+      }
+  },
+  "2020_Q1": {
+      "Mean": {
+          "LST_MEAN": 35.08424722,
+          "CARBON_MEAN": 0.02821041321,
+          "GR_PERCENT": 26.40643108
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 34.66873637,
+          "CARBON_MEAN": 0.028221,
+          "GR_PERCENT": 14.76388805
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 32.68776862,
+          "CARBON_MEAN": 0.027684,
+          "GR_PERCENT": 34.15106995
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 41.83949241,
+          "CARBON_MEAN": 0.028358,
+          "GR_PERCENT": 0.6335083116
+      },
+      "Embakasi East": {
+          "LST_MEAN": 38.18201915,
+          "CARBON_MEAN": 0.028131,
+          "GR_PERCENT": 11.39105414
+      },
+      "Embakasi North": {
+          "LST_MEAN": 42.43897269,
+          "CARBON_MEAN": 0.028281,
+          "GR_PERCENT": 2.552968424
+      },
+      "Embakasi South": {
+          "LST_MEAN": 40.31627585,
+          "CARBON_MEAN": 0.028166,
+          "GR_PERCENT": 6.568848389
+      },
+      "Embakasi West": {
+          "LST_MEAN": 40.97044904,
+          "CARBON_MEAN": 0.028482,
+          "GR_PERCENT": 1.463116211
+      },
+      "Kamukunji": {
+          "LST_MEAN": 38.63648442,
+          "CARBON_MEAN": 0.028702,
+          "GR_PERCENT": 11.52238293
+      },
+      "Kasarani": {
+          "LST_MEAN": 35.00053605,
+          "CARBON_MEAN": 0.028459,
+          "GR_PERCENT": 15.84461067
+      },
+      "Kibra": {
+          "LST_MEAN": 35.73345704,
+          "CARBON_MEAN": 0.028339,
+          "GR_PERCENT": 12.17943246
+      },
+      "Langata": {
+          "LST_MEAN": 32.66082719,
+          "CARBON_MEAN": 0.028092,
+          "GR_PERCENT": 38.0674396
+      },
+      "Makadara": {
+          "LST_MEAN": 41.34870162,
+          "CARBON_MEAN": 0.028635,
+          "GR_PERCENT": 0.3084709288
+      },
+      "Mathare": {
+          "LST_MEAN": 40.00757553,
+          "CARBON_MEAN": 0.028476,
+          "GR_PERCENT": 1.735996909
+      },
+      "Roysambu": {
+          "LST_MEAN": 36.55486551,
+          "CARBON_MEAN": 0.028112,
+          "GR_PERCENT": 30.3621381
+      },
+      "Ruaraka": {
+          "LST_MEAN": 41.57676802,
+          "CARBON_MEAN": 0.028276,
+          "GR_PERCENT": 3.827344045
+      },
+      "Starehe": {
+          "LST_MEAN": 42.09602396,
+          "CARBON_MEAN": 0.028787,
+          "GR_PERCENT": 1.501145978
+      },
+      "Westlands": {
+          "LST_MEAN": 32.61113467,
+          "CARBON_MEAN": 0.028076,
+          "GR_PERCENT": 49.00791124
+      }
+  },
+  "2020_Q2": {
+      "Mean": {
+          "LST_MEAN": 32.70268969,
+          "CARBON_MEAN": 0.02494065555,
+          "GR_PERCENT": 30.03412279
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 32.85968246,
+          "CARBON_MEAN": 0.024882,
+          "GR_PERCENT": 23.82581829
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 31.63166039,
+          "CARBON_MEAN": 0.024601,
+          "GR_PERCENT": 39.28153208
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 37.50399476,
+          "CARBON_MEAN": 0.025406,
+          "GR_PERCENT": 0.938219501
+      },
+      "Embakasi East": {
+          "LST_MEAN": 34.9584262,
+          "CARBON_MEAN": 0.024962,
+          "GR_PERCENT": 8.622428643
+      },
+      "Embakasi North": {
+          "LST_MEAN": 37.16053892,
+          "CARBON_MEAN": 0.025603,
+          "GR_PERCENT": 3.355069188
+      },
+      "Embakasi South": {
+          "LST_MEAN": 36.35662955,
+          "CARBON_MEAN": 0.024718,
+          "GR_PERCENT": 7.30975656
+      },
+      "Embakasi West": {
+          "LST_MEAN": 37.61398563,
+          "CARBON_MEAN": 0.02536,
+          "GR_PERCENT": 1.957751151
+      },
+      "Kamukunji": {
+          "LST_MEAN": 35.44186696,
+          "CARBON_MEAN": 0.025005,
+          "GR_PERCENT": 10.72693937
+      },
+      "Kasarani": {
+          "LST_MEAN": 34.19491883,
+          "CARBON_MEAN": 0.025294,
+          "GR_PERCENT": 12.23562764
+      },
+      "Kibra": {
+          "LST_MEAN": 33.58851925,
+          "CARBON_MEAN": 0.0246,
+          "GR_PERCENT": 19.21443878
+      },
+      "Langata": {
+          "LST_MEAN": 30.46631649,
+          "CARBON_MEAN": 0.024548,
+          "GR_PERCENT": 45.87520113
+      },
+      "Makadara": {
+          "LST_MEAN": 37.2839938,
+          "CARBON_MEAN": 0.024894,
+          "GR_PERCENT": 0.6963990006
+      },
+      "Mathare": {
+          "LST_MEAN": 36.42435562,
+          "CARBON_MEAN": 0.025301,
+          "GR_PERCENT": 1.894095069
+      },
+      "Roysambu": {
+          "LST_MEAN": 32.81366196,
+          "CARBON_MEAN": 0.025648,
+          "GR_PERCENT": 36.02658576
+      },
+      "Ruaraka": {
+          "LST_MEAN": 36.63783074,
+          "CARBON_MEAN": 0.025607,
+          "GR_PERCENT": 5.218564184
+      },
+      "Starehe": {
+          "LST_MEAN": 36.19667461,
+          "CARBON_MEAN": 0.02471,
+          "GR_PERCENT": 3.084204994
+      },
+      "Westlands": {
+          "LST_MEAN": 30.00189439,
+          "CARBON_MEAN": 0.025088,
+          "GR_PERCENT": 55.47865639
+      }
+  },
+  "2020_Q3": {
+      "Mean": {
+          "LST_MEAN": 39.39740489,
+          "CARBON_MEAN": 0.02621537477,
+          "GR_PERCENT": 22.08103406
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 38.95284408,
+          "CARBON_MEAN": 0.026746,
+          "GR_PERCENT": 29.01363811
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 38.07292493,
+          "CARBON_MEAN": 0.026043,
+          "GR_PERCENT": 39.58856132
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 42.84522349,
+          "CARBON_MEAN": 0.025893,
+          "GR_PERCENT": 0.8515913534
+      },
+      "Embakasi East": {
+          "LST_MEAN": 41.6749911,
+          "CARBON_MEAN": 0.025761,
+          "GR_PERCENT": 1.447936385
+      },
+      "Embakasi North": {
+          "LST_MEAN": 41.57922676,
+          "CARBON_MEAN": 0.026138,
+          "GR_PERCENT": 3.122071489
+      },
+      "Embakasi South": {
+          "LST_MEAN": 42.89385254,
+          "CARBON_MEAN": 0.025737,
+          "GR_PERCENT": 1.496953419
+      },
+      "Embakasi West": {
+          "LST_MEAN": 42.84612489,
+          "CARBON_MEAN": 0.025992,
+          "GR_PERCENT": 1.983881251
+      },
+      "Kamukunji": {
+          "LST_MEAN": 40.80592707,
+          "CARBON_MEAN": 0.0264,
+          "GR_PERCENT": 6.666600519
+      },
+      "Kasarani": {
+          "LST_MEAN": 41.15487525,
+          "CARBON_MEAN": 0.026464,
+          "GR_PERCENT": 4.728588852
+      },
+      "Kibra": {
+          "LST_MEAN": 40.3068272,
+          "CARBON_MEAN": 0.026686,
+          "GR_PERCENT": 18.70307773
+      },
+      "Langata": {
+          "LST_MEAN": 38.00179898,
+          "CARBON_MEAN": 0.026061,
+          "GR_PERCENT": 29.47081402
+      },
+      "Makadara": {
+          "LST_MEAN": 42.84095809,
+          "CARBON_MEAN": 0.026011,
+          "GR_PERCENT": 1.081009609
+      },
+      "Mathare": {
+          "LST_MEAN": 42.79082587,
+          "CARBON_MEAN": 0.026312,
+          "GR_PERCENT": 2.571116657
+      },
+      "Roysambu": {
+          "LST_MEAN": 38.00889674,
+          "CARBON_MEAN": 0.026521,
+          "GR_PERCENT": 27.873891
+      },
+      "Ruaraka": {
+          "LST_MEAN": 39.98231631,
+          "CARBON_MEAN": 0.026103,
+          "GR_PERCENT": 5.937811081
+      },
+      "Starehe": {
+          "LST_MEAN": 43.82966318,
+          "CARBON_MEAN": 0.026318,
+          "GR_PERCENT": 2.496545319
+      },
+      "Westlands": {
+          "LST_MEAN": 35.51095581,
+          "CARBON_MEAN": 0.026367,
+          "GR_PERCENT": 59.12277104
+      }
+  },
+  "2020_Q4": {
+      "Mean": {
+          "LST_MEAN": 36.88083509,
+          "CARBON_MEAN": 0.02711973819,
+          "GR_PERCENT": 29.86256318
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 34.12274241,
+          "CARBON_MEAN": 0.027335,
+          "GR_PERCENT": 41.02367648
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 33.18341369,
+          "CARBON_MEAN": 0.026925,
+          "GR_PERCENT": 55.64343269
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 39.41232806,
+          "CARBON_MEAN": 0.027257,
+          "GR_PERCENT": 1.685091355
+      },
+      "Embakasi East": {
+          "LST_MEAN": 39.91798283,
+          "CARBON_MEAN": 0.027163,
+          "GR_PERCENT": 2.438187385
+      },
+      "Embakasi North": {
+          "LST_MEAN": 41.50518388,
+          "CARBON_MEAN": 0.027104,
+          "GR_PERCENT": 4.689919532
+      },
+      "Embakasi South": {
+          "LST_MEAN": 39.17911016,
+          "CARBON_MEAN": 0.026987,
+          "GR_PERCENT": 1.952132852
+      },
+      "Embakasi West": {
+          "LST_MEAN": 41.59545142,
+          "CARBON_MEAN": 0.027184,
+          "GR_PERCENT": 3.176836345
+      },
+      "Kamukunji": {
+          "LST_MEAN": 38.26608354,
+          "CARBON_MEAN": 0.027081,
+          "GR_PERCENT": 28.64430084
+      },
+      "Kasarani": {
+          "LST_MEAN": 40.34169177,
+          "CARBON_MEAN": 0.027464,
+          "GR_PERCENT": 7.74314166
+      },
+      "Kibra": {
+          "LST_MEAN": 37.24084635,
+          "CARBON_MEAN": 0.027212,
+          "GR_PERCENT": 28.63715457
+      },
+      "Langata": {
+          "LST_MEAN": 35.90263997,
+          "CARBON_MEAN": 0.026975,
+          "GR_PERCENT": 34.63545732
+      },
+      "Makadara": {
+          "LST_MEAN": 40.07988982,
+          "CARBON_MEAN": 0.027174,
+          "GR_PERCENT": 2.623944219
+      },
+      "Mathare": {
+          "LST_MEAN": 38.63507341,
+          "CARBON_MEAN": 0.027009,
+          "GR_PERCENT": 11.49809897
+      },
+      "Roysambu": {
+          "LST_MEAN": 35.40514388,
+          "CARBON_MEAN": 0.027084,
+          "GR_PERCENT": 47.56637363
+      },
+      "Ruaraka": {
+          "LST_MEAN": 39.60195858,
+          "CARBON_MEAN": 0.027017,
+          "GR_PERCENT": 13.38245412
+      },
+      "Starehe": {
+          "LST_MEAN": 38.89276466,
+          "CARBON_MEAN": 0.027164,
+          "GR_PERCENT": 6.148899341
+      },
+      "Westlands": {
+          "LST_MEAN": 30.75126216,
+          "CARBON_MEAN": 0.026913,
+          "GR_PERCENT": 71.98839689
+      }
+  },
+  "2021_Q1": {
+      "Mean": {
+          "LST_MEAN": 39.83423834,
+          "CARBON_MEAN": 0.02829899381,
+          "GR_PERCENT": 20.32364009
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 37.74827716,
+          "CARBON_MEAN": 0.028224,
+          "GR_PERCENT": 20.39822014
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 36.4751771,
+          "CARBON_MEAN": 0.027784,
+          "GR_PERCENT": 29.51553432
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 43.92098842,
+          "CARBON_MEAN": 0.028635,
+          "GR_PERCENT": 0.6065585748
+      },
+      "Embakasi East": {
+          "LST_MEAN": 44.52365054,
+          "CARBON_MEAN": 0.028226,
+          "GR_PERCENT": 0.6352569226
+      },
+      "Embakasi North": {
+          "LST_MEAN": 43.75211193,
+          "CARBON_MEAN": 0.028838,
+          "GR_PERCENT": 1.520594727
+      },
+      "Embakasi South": {
+          "LST_MEAN": 43.97178708,
+          "CARBON_MEAN": 0.028499,
+          "GR_PERCENT": 0.7066616839
+      },
+      "Embakasi West": {
+          "LST_MEAN": 43.59434933,
+          "CARBON_MEAN": 0.028943,
+          "GR_PERCENT": 1.358911685
+      },
+      "Kamukunji": {
+          "LST_MEAN": 41.35347617,
+          "CARBON_MEAN": 0.028735,
+          "GR_PERCENT": 6.563609731
+      },
+      "Kasarani": {
+          "LST_MEAN": 42.21408969,
+          "CARBON_MEAN": 0.028461,
+          "GR_PERCENT": 3.125146435
+      },
+      "Kibra": {
+          "LST_MEAN": 39.41084001,
+          "CARBON_MEAN": 0.0283,
+          "GR_PERCENT": 12.97592817
+      },
+      "Langata": {
+          "LST_MEAN": 38.24552289,
+          "CARBON_MEAN": 0.028181,
+          "GR_PERCENT": 22.97737045
+      },
+      "Makadara": {
+          "LST_MEAN": 43.8512757,
+          "CARBON_MEAN": 0.028782,
+          "GR_PERCENT": 0.4515812572
+      },
+      "Mathare": {
+          "LST_MEAN": 41.54140962,
+          "CARBON_MEAN": 0.028755,
+          "GR_PERCENT": 3.481844662
+      },
+      "Roysambu": {
+          "LST_MEAN": 38.8355243,
+          "CARBON_MEAN": 0.028593,
+          "GR_PERCENT": 21.47226687
+      },
+      "Ruaraka": {
+          "LST_MEAN": 42.18657891,
+          "CARBON_MEAN": 0.028898,
+          "GR_PERCENT": 5.054339042
+      },
+      "Starehe": {
+          "LST_MEAN": 42.55009583,
+          "CARBON_MEAN": 0.028495,
+          "GR_PERCENT": 1.367355328
+      },
+      "Westlands": {
+          "LST_MEAN": 34.63773605,
+          "CARBON_MEAN": 0.028037,
+          "GR_PERCENT": 54.82523337
+      }
+  },
+  "2021_Q2": {
+      "Mean": {
+          "LST_MEAN": 31.5949688,
+          "CARBON_MEAN": 0.02403633814,
+          "GR_PERCENT": 35.41407606
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 31.69717898,
+          "CARBON_MEAN": 0.024298,
+          "GR_PERCENT": 29.78934646
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 29.00274251,
+          "CARBON_MEAN": 0.024136,
+          "GR_PERCENT": 36.0718103
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 36.83737018,
+          "CARBON_MEAN": 0.024257,
+          "GR_PERCENT": 1.416943179
+      },
+      "Embakasi East": {
+          "LST_MEAN": 34.81302935,
+          "CARBON_MEAN": 0.024015,
+          "GR_PERCENT": 13.67589103
+      },
+      "Embakasi North": {
+          "LST_MEAN": 36.65787824,
+          "CARBON_MEAN": 0.024169,
+          "GR_PERCENT": 2.929760247
+      },
+      "Embakasi South": {
+          "LST_MEAN": 35.95648834,
+          "CARBON_MEAN": 0.023811,
+          "GR_PERCENT": 7.393537882
+      },
+      "Embakasi West": {
+          "LST_MEAN": 36.87902748,
+          "CARBON_MEAN": 0.02423,
+          "GR_PERCENT": 2.414428416
+      },
+      "Kamukunji": {
+          "LST_MEAN": 34.25534399,
+          "CARBON_MEAN": 0.024259,
+          "GR_PERCENT": 13.78469646
+      },
+      "Kasarani": {
+          "LST_MEAN": 33.21791777,
+          "CARBON_MEAN": 0.024215,
+          "GR_PERCENT": 15.46426534
+      },
+      "Kibra": {
+          "LST_MEAN": 31.81090258,
+          "CARBON_MEAN": 0.024186,
+          "GR_PERCENT": 20.10249957
+      },
+      "Langata": {
+          "LST_MEAN": 28.943588,
+          "CARBON_MEAN": 0.023727,
+          "GR_PERCENT": 58.95342535
+      },
+      "Makadara": {
+          "LST_MEAN": 36.3552824,
+          "CARBON_MEAN": 0.024173,
+          "GR_PERCENT": 1.803902014
+      },
+      "Mathare": {
+          "LST_MEAN": 35.92351407,
+          "CARBON_MEAN": 0.02416,
+          "GR_PERCENT": 5.289294385
+      },
+      "Roysambu": {
+          "LST_MEAN": 30.57738579,
+          "CARBON_MEAN": 0.024343,
+          "GR_PERCENT": 30.95481296
+      },
+      "Ruaraka": {
+          "LST_MEAN": 36.35762101,
+          "CARBON_MEAN": 0.024142,
+          "GR_PERCENT": 7.239523522
+      },
+      "Starehe": {
+          "LST_MEAN": 35.69154596,
+          "CARBON_MEAN": 0.024034,
+          "GR_PERCENT": 4.060146775
+      },
+      "Westlands": {
+          "LST_MEAN": 28.3882081,
+          "CARBON_MEAN": 0.024191,
+          "GR_PERCENT": 59.95514124
+      }
+  },
+  "2021_Q3": {
+      "Mean": {
+          "LST_MEAN": 28.64104212,
+          "CARBON_MEAN": 0.02522874307,
+          "GR_PERCENT": 19.19855081
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 25.5373928,
+          "CARBON_MEAN": 0.025528,
+          "GR_PERCENT": 19.3858553
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 25.40249773,
+          "CARBON_MEAN": 0.024894,
+          "GR_PERCENT": 37.44280222
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 36.83830437,
+          "CARBON_MEAN": 0.025461,
+          "GR_PERCENT": 0.3911770769
+      },
+      "Embakasi East": {
+          "LST_MEAN": 29.23594855,
+          "CARBON_MEAN": 0.025224,
+          "GR_PERCENT": 0.7427024806
+      },
+      "Embakasi North": {
+          "LST_MEAN": 30.90359696,
+          "CARBON_MEAN": 0.025716,
+          "GR_PERCENT": 1.234120461
+      },
+      "Embakasi South": {
+          "LST_MEAN": 31.88796705,
+          "CARBON_MEAN": 0.02494,
+          "GR_PERCENT": 0.5132595449
+      },
+      "Embakasi West": {
+          "LST_MEAN": 29.79210806,
+          "CARBON_MEAN": 0.025236,
+          "GR_PERCENT": 1.350523215
+      },
+      "Kamukunji": {
+          "LST_MEAN": 28.79976463,
+          "CARBON_MEAN": 0.025426,
+          "GR_PERCENT": 3.696854451
+      },
+      "Kasarani": {
+          "LST_MEAN": 29.02745763,
+          "CARBON_MEAN": 0.025084,
+          "GR_PERCENT": 4.352355736
+      },
+      "Kibra": {
+          "LST_MEAN": 26.54885677,
+          "CARBON_MEAN": 0.025262,
+          "GR_PERCENT": 9.33400634
+      },
+      "Langata": {
+          "LST_MEAN": 31.5453569,
+          "CARBON_MEAN": 0.025063,
+          "GR_PERCENT": 26.29898149
+      },
+      "Makadara": {
+          "LST_MEAN": 28.97036815,
+          "CARBON_MEAN": 0.025046,
+          "GR_PERCENT": 0.5646837505
+      },
+      "Mathare": {
+          "LST_MEAN": 25.56687907,
+          "CARBON_MEAN": 0.025651,
+          "GR_PERCENT": 0.7777921279
+      },
+      "Roysambu": {
+          "LST_MEAN": 25.69059529,
+          "CARBON_MEAN": 0.025765,
+          "GR_PERCENT": 15.67132226
+      },
+      "Ruaraka": {
+          "LST_MEAN": 26.46094823,
+          "CARBON_MEAN": 0.025639,
+          "GR_PERCENT": 2.148975912
+      },
+      "Starehe": {
+          "LST_MEAN": 29.2214638,
+          "CARBON_MEAN": 0.02529,
+          "GR_PERCENT": 0.876342336
+      },
+      "Westlands": {
+          "LST_MEAN": 20.48202038,
+          "CARBON_MEAN": 0.025616,
+          "GR_PERCENT": 56.03864127
+      }
+  },
+  "2021_Q4": {
+      "Mean": {
+          "LST_MEAN": 41.16681251,
+          "CARBON_MEAN": 0.02679106497,
+          "GR_PERCENT": 19.05080135
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 38.24892758,
+          "CARBON_MEAN": 0.026934,
+          "GR_PERCENT": 13.48074308
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 37.07395347,
+          "CARBON_MEAN": 0.026977,
+          "GR_PERCENT": 27.12970636
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 43.49133478,
+          "CARBON_MEAN": 0.026793,
+          "GR_PERCENT": 0.1520313924
+      },
+      "Embakasi East": {
+          "LST_MEAN": 45.60557889,
+          "CARBON_MEAN": 0.026654,
+          "GR_PERCENT": 2.219176774
+      },
+      "Embakasi North": {
+          "LST_MEAN": 40.75121741,
+          "CARBON_MEAN": 0.026756,
+          "GR_PERCENT": 1.100038328
+      },
+      "Embakasi South": {
+          "LST_MEAN": 44.84998747,
+          "CARBON_MEAN": 0.026467,
+          "GR_PERCENT": 0.5866816451
+      },
+      "Embakasi West": {
+          "LST_MEAN": 42.30208059,
+          "CARBON_MEAN": 0.026725,
+          "GR_PERCENT": 0.7653218167
+      },
+      "Kamukunji": {
+          "LST_MEAN": 42.56851998,
+          "CARBON_MEAN": 0.026896,
+          "GR_PERCENT": 2.246410952
+      },
+      "Kasarani": {
+          "LST_MEAN": 46.53541986,
+          "CARBON_MEAN": 0.027026,
+          "GR_PERCENT": 2.484809905
+      },
+      "Kibra": {
+          "LST_MEAN": 39.46664504,
+          "CARBON_MEAN": 0.027036,
+          "GR_PERCENT": 12.39135651
+      },
+      "Langata": {
+          "LST_MEAN": 39.22997212,
+          "CARBON_MEAN": 0.026695,
+          "GR_PERCENT": 31.13539418
+      },
+      "Makadara": {
+          "LST_MEAN": 41.8779615,
+          "CARBON_MEAN": 0.026852,
+          "GR_PERCENT": 0.2604817508
+      },
+      "Mathare": {
+          "LST_MEAN": 44.531848,
+          "CARBON_MEAN": 0.026754,
+          "GR_PERCENT": 0.8040230816
+      },
+      "Roysambu": {
+          "LST_MEAN": 39.75629375,
+          "CARBON_MEAN": 0.026797,
+          "GR_PERCENT": 17.15965516
+      },
+      "Ruaraka": {
+          "LST_MEAN": 43.82311645,
+          "CARBON_MEAN": 0.026734,
+          "GR_PERCENT": 1.165564915
+      },
+      "Starehe": {
+          "LST_MEAN": 42.871063,
+          "CARBON_MEAN": 0.026949,
+          "GR_PERCENT": 0.764349441
+      },
+      "Westlands": {
+          "LST_MEAN": 34.11831137,
+          "CARBON_MEAN": 0.026624,
+          "GR_PERCENT": 47.44185509
+      }
+  },
+  "2022_Q1": {
+      "Mean": {
+          "LST_MEAN": 37.97480353,
+          "CARBON_MEAN": 0.02679427234,
+          "GR_PERCENT": 21.04513938
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 36.91235,
+          "CARBON_MEAN": 0.026835,
+          "GR_PERCENT": 27.07858097
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 34.07804,
+          "CARBON_MEAN": 0.026374,
+          "GR_PERCENT": 29.73280677
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 40.85992,
+          "CARBON_MEAN": 0.027163,
+          "GR_PERCENT": 0.1442001821
+      },
+      "Embakasi East": {
+          "LST_MEAN": 40.17959,
+          "CARBON_MEAN": 0.026714,
+          "GR_PERCENT": 1.271556893
+      },
+      "Embakasi North": {
+          "LST_MEAN": 40.63143,
+          "CARBON_MEAN": 0.02735,
+          "GR_PERCENT": 1.61182184
+      },
+      "Embakasi South": {
+          "LST_MEAN": 42.59878,
+          "CARBON_MEAN": 0.026773,
+          "GR_PERCENT": 0.9197243307
+      },
+      "Embakasi West": {
+          "LST_MEAN": 41.23198,
+          "CARBON_MEAN": 0.027327,
+          "GR_PERCENT": 0.9904178811
+      },
+      "Kamukunji": {
+          "LST_MEAN": 39.31516,
+          "CARBON_MEAN": 0.027176,
+          "GR_PERCENT": 3.294562244
+      },
+      "Kasarani": {
+          "LST_MEAN": 40.78801,
+          "CARBON_MEAN": 0.027047,
+          "GR_PERCENT": 2.731324811
+      },
+      "Kibra": {
+          "LST_MEAN": 38.89571,
+          "CARBON_MEAN": 0.026937,
+          "GR_PERCENT": 11.74108507
+      },
+      "Langata": {
+          "LST_MEAN": 36.69658,
+          "CARBON_MEAN": 0.0267,
+          "GR_PERCENT": 27.99384908
+      },
+      "Makadara": {
+          "LST_MEAN": 41.82502,
+          "CARBON_MEAN": 0.027041,
+          "GR_PERCENT": 0.4650482161
+      },
+      "Mathare": {
+          "LST_MEAN": 40.50236,
+          "CARBON_MEAN": 0.027185,
+          "GR_PERCENT": 1.329474393
+      },
+      "Roysambu": {
+          "LST_MEAN": 36.4,
+          "CARBON_MEAN": 0.027052,
+          "GR_PERCENT": 28.24116721
+      },
+      "Ruaraka": {
+          "LST_MEAN": 39.25723,
+          "CARBON_MEAN": 0.027275,
+          "GR_PERCENT": 3.929978158
+      },
+      "Starehe": {
+          "LST_MEAN": 41.22308,
+          "CARBON_MEAN": 0.027059,
+          "GR_PERCENT": 1.578936523
+      },
+      "Westlands": {
+          "LST_MEAN": 33.2521,
+          "CARBON_MEAN": 0.02633,
+          "GR_PERCENT": 57.52341413
+      }
+  },
+  "2022_Q2": {
+      "Mean": {
+          "LST_MEAN": 32.73170376,
+          "CARBON_MEAN": 0.02260327011,
+          "GR_PERCENT": 18.00072791
+      },
+      "Dagoretti North": {
+          "LST_MEAN": 28.9897911,
+          "CARBON_MEAN": 0.022614,
+          "GR_PERCENT": 18.03706985
+      },
+      "Dagoretti South": {
+          "LST_MEAN": 27.13501801,
+          "CARBON_MEAN": 0.022448,
+          "GR_PERCENT": 23.8698527
+      },
+      "Embakasi Central": {
+          "LST_MEAN": 37.08668263,
+          "CARBON_MEAN": 0.022985,
+          "GR_PERCENT": 0.1658031112
+      },
+      "Embakasi East": {
+          "LST_MEAN": 38.32422728,
+          "CARBON_MEAN": 0.022636,
+          "GR_PERCENT": 0.8466162099
+      },
+      "Embakasi North": {
+          "LST_MEAN": 39.88902736,
+          "CARBON_MEAN": 0.023035,
+          "GR_PERCENT": 0.8231414841
+      },
+      "Embakasi South": {
+          "LST_MEAN": 37.90434775,
+          "CARBON_MEAN": 0.022313,
+          "GR_PERCENT": 0.8151758615
+      },
+      "Embakasi West": {
+          "LST_MEAN": 34.03870558,
+          "CARBON_MEAN": 0.022984,
+          "GR_PERCENT": 0.6640303511
+      },
+      "Kamukunji": {
+          "LST_MEAN": 35.36708718,
+          "CARBON_MEAN": 0.023046,
+          "GR_PERCENT": 2.149585669
+      },
+      "Kasarani": {
+          "LST_MEAN": 36.8593941,
+          "CARBON_MEAN": 0.022894,
+          "GR_PERCENT": 3.064210971
+      },
+      "Kibra": {
+          "LST_MEAN": 31.3324315,
+          "CARBON_MEAN": 0.022648,
+          "GR_PERCENT": 10.25777354
+      },
+      "Langata": {
+            "LST_MEAN": 30.12059061,
+            "CARBON_MEAN": 0.022363,
+            "GR_PERCENT": 30.32411304
+        },
+        "Makadara": {
+            "LST_MEAN": 35.37950593,
+            "CARBON_MEAN": 0.022799,
+            "GR_PERCENT": 0.2628000799
+        },
+        "Mathare": {
+            "LST_MEAN": 30.17094884,
+            "CARBON_MEAN": 0.023115,
+            "GR_PERCENT": 0.7939340269
+        },
+        "Roysambu": {
+            "LST_MEAN": 30.64176594,
+            "CARBON_MEAN": 0.022767,
+            "GR_PERCENT": 16.96696187
+        },
+        "Ruaraka": {
+            "LST_MEAN": 32.08183979,
+            "CARBON_MEAN": 0.023053,
+            "GR_PERCENT": 2.154857482
+        },
+        "Starehe": {
+            "LST_MEAN": 33.07211049,
+            "CARBON_MEAN": 0.022794,
+            "GR_PERCENT": 1.514703272
+        },
+        "Westlands": {
+            "LST_MEAN": 27.09144944,
+            "CARBON_MEAN": 0.022463,
+            "GR_PERCENT": 44.84643227
+        }
+    },
+    "2022_Q3": {
+        "Mean": {
+            "LST_MEAN": 32.73170376,
+            "CARBON_MEAN": 0.02395148345,
+            "GR_PERCENT": 14.21142378
+        },
+        "Dagoretti North": {
+            "LST_MEAN": 39.71547006,
+            "CARBON_MEAN": 0.024094,
+            "GR_PERCENT": 4.907651655
+        },
+        "Dagoretti South": {
+            "LST_MEAN": 38.56768254,
+            "CARBON_MEAN": 0.02393,
+            "GR_PERCENT": 13.74456937
+        },
+        "Embakasi Central": {
+            "LST_MEAN": 43.68674457,
+            "CARBON_MEAN": 0.024111,
+            "GR_PERCENT": 0.00054
+        },
+        "Embakasi East": {
+            "LST_MEAN": 46.97448869,
+            "CARBON_MEAN": 0.023951,
+            "GR_PERCENT": 0.1442110801
+        },
+        "Embakasi North": {
+            "LST_MEAN": 44.91975191,
+            "CARBON_MEAN": 0.024154,
+            "GR_PERCENT": 0.7386957048
+        },
+        "Embakasi South": {
+            "LST_MEAN": 46.46863373,
+            "CARBON_MEAN": 0.023715,
+            "GR_PERCENT": 0.6025225068
+        },
+        "Embakasi West": {
+            "LST_MEAN": 44.35190728,
+            "CARBON_MEAN": 0.024182,
+            "GR_PERCENT": 0.5064641345
+        },
+        "Kamukunji": {
+            "LST_MEAN": 44.66608257,
+            "CARBON_MEAN": 0.024381,
+            "GR_PERCENT": 0.1127313558
+        },
+        "Kasarani": {
+            "LST_MEAN": 44.8809511,
+            "CARBON_MEAN": 0.024465,
+            "GR_PERCENT": 1.186163035
+        },
+        "Kibra": {
+            "LST_MEAN": 42.14000484,
+            "CARBON_MEAN": 0.023751,
+            "GR_PERCENT": 6.112841188
+        },
+        "Langata": {
+            "LST_MEAN": 41.36588141,
+            "CARBON_MEAN": 0.023397,
+            "GR_PERCENT": 17.30348229
+        },
+        "Makadara": {
+            "LST_MEAN": 45.24788601,
+            "CARBON_MEAN": 0.024518,
+            "GR_PERCENT": 0.0495493394
+        },
+        "Mathare": {
+            "LST_MEAN": 43.57040178,
+            "CARBON_MEAN": 0.024309,
+            "GR_PERCENT": 0.1583359703
+        },
+        "Roysambu": {
+            "LST_MEAN": 39.3175394,
+            "CARBON_MEAN": 0.024491,
+            "GR_PERCENT": 12.37513856
+        },
+        "Ruaraka": {
+            "LST_MEAN": 43.18021406,
+            "CARBON_MEAN": 0.024211,
+            "GR_PERCENT": 1.406556502
+        },
+        "Starehe": {
+            "LST_MEAN": 43.94058102,
+            "CARBON_MEAN": 0.024085,
+            "GR_PERCENT": 0.2665164587
+        },
+        "Westlands": {
+            "LST_MEAN": 36.24965965,
+            "CARBON_MEAN": 0.024017,
+            "GR_PERCENT": 31.08867162
+        }
+    },
+    "2022_Q4": {
+        "Mean": {
+            "LST_MEAN": 40.13060505,
+            "CARBON_MEAN": 0.02797159879,
+            "GR_PERCENT": 24.08988016
+        },
+        "Dagoretti North": {
+            "LST_MEAN": 37.25865679,
+            "CARBON_MEAN": 0.028045,
+            "GR_PERCENT": 36.57335091
+        },
+        "Dagoretti South": {
+            "LST_MEAN": 34.81651073,
+            "CARBON_MEAN": 0.027904,
+            "GR_PERCENT": 44.2038273
+        },
+        "Embakasi Central": {
+            "LST_MEAN": 43.1295636,
+            "CARBON_MEAN": 0.028054,
+            "GR_PERCENT": 0.2623151759
+        },
+        "Embakasi East": {
+            "LST_MEAN": 44.0218981,
+            "CARBON_MEAN": 0.027961,
+            "GR_PERCENT": 0.7083348638
+        },
+        "Embakasi North": {
+            "LST_MEAN": 37.13292793,
+            "CARBON_MEAN": 0.027994,
+            "GR_PERCENT": 7.623103796
+        },
+        "Embakasi South": {
+            "LST_MEAN": 44.19139596,
+            "CARBON_MEAN": 0.027769,
+            "GR_PERCENT": 1.493630189
+        },
+        "Embakasi West": {
+            "LST_MEAN": 41.16166423,
+            "CARBON_MEAN": 0.02801,
+            "GR_PERCENT": 2.24410981
+        },
+        "Kamukunji": {
+            "LST_MEAN": 36.17000334,
+            "CARBON_MEAN": 0.028081,
+            "GR_PERCENT": 14.39736396
+        },
+        "Kasarani": {
+            "LST_MEAN": 43.56671346,
+            "CARBON_MEAN": 0.028201,
+            "GR_PERCENT": 3.379070863
+        },
+        "Kibra": {
+            "LST_MEAN": 40.69465254,
+            "CARBON_MEAN": 0.028085,
+            "GR_PERCENT": 15.90651584
+        },
+        "Langata": {
+            "LST_MEAN": 39.8103167,
+            "CARBON_MEAN": 0.027865,
+            "GR_PERCENT": 27.59811895
+        },
+        "Makadara": {
+            "LST_MEAN": 39.60899629,
+            "CARBON_MEAN": 0.028022,
+            "GR_PERCENT": 1.059662661
+        },
+        "Mathare": {
+            "LST_MEAN": 37.43223971,
+            "CARBON_MEAN": 0.02797,
+            "GR_PERCENT": 3.601844527
+        },
+        "Roysambu": {
+            "LST_MEAN": 39.18657219,
+            "CARBON_MEAN": 0.028106,
+            "GR_PERCENT": 29.93811391
+        },
+        "Ruaraka": {
+            "LST_MEAN": 35.63941197,
+            "CARBON_MEAN": 0.027935,
+            "GR_PERCENT": 9.56702451
+        },
+        "Starehe": {
+            "LST_MEAN": 39.53477706,
+            "CARBON_MEAN": 0.027983,
+            "GR_PERCENT": 2.414847876
+        },
+        "Westlands": {
+            "LST_MEAN": 34.18673888,
+            "CARBON_MEAN": 0.027793,
+            "GR_PERCENT": 67.75449349
+        }
+    }
+  }
+    
+
+
+
+

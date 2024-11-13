@@ -1,0 +1,1102 @@
+[
+ {
+   "YEAR": "2024_Q1",
+   "Category": "Low",
+   "Count": "90,880.52"
+ },
+ {
+   "YEAR": "2024_Q1",
+   "Category": "Moderate",
+   "Count": "102,625.58"
+ },
+ {
+   "YEAR": "2024_Q1",
+   "Category": "High",
+   "Count": "179,544.85"
+ },
+ {
+   "YEAR": "2024_Q1",
+   "Category": "Very High",
+   "Count": "405,990.45"
+ },
+ {
+   "YEAR": "2024_Q2",
+   "Category": "Low",
+   "Count": "162,484.80"
+ },
+ {
+   "YEAR": "2024_Q2",
+   "Category": "Moderate",
+   "Count": "68,846.72"
+ },
+ {
+   "YEAR": "2024_Q2",
+   "Category": "High",
+   "Count": "101,660.50"
+ },
+ {
+   "YEAR": "2024_Q2",
+   "Category": "Very High",
+   "Count": "446,049.39"
+ },
+ {
+   "YEAR": "2024_Q3",
+   "Category": "Low",
+   "Count": "107,862.22"
+ },
+ {
+   "YEAR": "2024_Q3",
+   "Category": "Moderate",
+   "Count": "118,191.42"
+ },
+ {
+   "YEAR": "2024_Q3",
+   "Category": "High",
+   "Count": "144,372.53"
+ },
+ {
+   "YEAR": "2024_Q3",
+   "Category": "Very High",
+   "Count": "408,615.25"
+ },
+ {
+   "YEAR": "2023_Q1",
+   "Category": "Low",
+   "Count": "89,446.66"
+ },
+ {
+   "YEAR": "2023_Q1",
+   "Category": "Moderate",
+   "Count": "91,565.23"
+ },
+ {
+   "YEAR": "2023_Q1",
+   "Category": "High",
+   "Count": "180,521.66"
+ },
+ {
+   "YEAR": "2023_Q1",
+   "Category": "Very High",
+   "Count": "417,507.86"
+ },
+ {
+   "YEAR": "2023_Q2",
+   "Category": "Low",
+   "Count": "128,378.49"
+ },
+ {
+   "YEAR": "2023_Q2",
+   "Category": "Moderate",
+   "Count": "69,560.84"
+ },
+ {
+   "YEAR": "2023_Q2",
+   "Category": "High",
+   "Count": "108,767.09"
+ },
+ {
+   "YEAR": "2023_Q2",
+   "Category": "Very High",
+   "Count": "472,334.99"
+ },
+ {
+   "YEAR": "2023_Q3",
+   "Category": "Low",
+   "Count": "98,460.20"
+ },
+ {
+   "YEAR": "2023_Q3",
+   "Category": "Moderate",
+   "Count": "91,533.03"
+ },
+ {
+   "YEAR": "2023_Q3",
+   "Category": "High",
+   "Count": "161,033.88"
+ },
+ {
+   "YEAR": "2023_Q3",
+   "Category": "Very High",
+   "Count": "428,014.30"
+ },
+ {
+   "YEAR": "2023_Q4",
+   "Category": "Low",
+   "Count": "74,121.68"
+ },
+ {
+   "YEAR": "2023_Q4",
+   "Category": "Moderate",
+   "Count": "106,643.00"
+ },
+ {
+   "YEAR": "2023_Q4",
+   "Category": "High",
+   "Count": "202,822.14"
+ },
+ {
+   "YEAR": "2023_Q4",
+   "Category": "Very High",
+   "Count": "395,454.59"
+ },
+ {
+   "YEAR": "2022_Q1",
+   "Category": "Low",
+   "Count": "80,189.28"
+ },
+ {
+   "YEAR": "2022_Q1",
+   "Category": "Moderate",
+   "Count": "84,433.20"
+ },
+ {
+   "YEAR": "2022_Q1",
+   "Category": "High",
+   "Count": "170,849.36"
+ },
+ {
+   "YEAR": "2022_Q1",
+   "Category": "Very High",
+   "Count": "443,569.57"
+ },
+ {
+   "YEAR": "2022_Q2",
+   "Category": "Low",
+   "Count": "131,297.13"
+ },
+ {
+   "YEAR": "2022_Q2",
+   "Category": "Moderate",
+   "Count": "91,900.72"
+ },
+ {
+   "YEAR": "2022_Q2",
+   "Category": "High",
+   "Count": "117,404.27"
+ },
+ {
+   "YEAR": "2022_Q2",
+   "Category": "Very High",
+   "Count": "438,439.29"
+ },
+ {
+   "YEAR": "2022_Q3",
+   "Category": "Low",
+   "Count": "92,416.26"
+ },
+ {
+   "YEAR": "2022_Q3",
+   "Category": "Moderate",
+   "Count": "83,290.31"
+ },
+ {
+   "YEAR": "2022_Q3",
+   "Category": "High",
+   "Count": "166,988.98"
+ },
+ {
+   "YEAR": "2022_Q3",
+   "Category": "Very High",
+   "Count": "436,345.87"
+ },
+ {
+   "YEAR": "2022_Q4",
+   "Category": "Low",
+   "Count": "117,693.86"
+ },
+ {
+   "YEAR": "2022_Q4",
+   "Category": "Moderate",
+   "Count": "98,495.04"
+ },
+ {
+   "YEAR": "2022_Q4",
+   "Category": "High",
+   "Count": "144,526.49"
+ },
+ {
+   "YEAR": "2022_Q4",
+   "Category": "Very High",
+   "Count": "418,326.02"
+ },
+ {
+   "YEAR": "2021_Q1",
+   "Category": "Low",
+   "Count": "92,228.33"
+ },
+ {
+   "YEAR": "2021_Q1",
+   "Category": "Moderate",
+   "Count": "81,689.46"
+ },
+ {
+   "YEAR": "2021_Q1",
+   "Category": "High",
+   "Count": "149,698.28"
+ },
+ {
+   "YEAR": "2021_Q1",
+   "Category": "Very High",
+   "Count": "455,425.33"
+ },
+ {
+   "YEAR": "2021_Q2",
+   "Category": "Low",
+   "Count": "97,738.26"
+ },
+ {
+   "YEAR": "2021_Q2",
+   "Category": "Moderate",
+   "Count": "92,583.33"
+ },
+ {
+   "YEAR": "2021_Q2",
+   "Category": "High",
+   "Count": "152,404.54"
+ },
+ {
+   "YEAR": "2021_Q2",
+   "Category": "Very High",
+   "Count": "436,315.28"
+ },
+ {
+   "YEAR": "2021_Q3",
+   "Category": "Low",
+   "Count": "117,017.23"
+ },
+ {
+   "YEAR": "2021_Q3",
+   "Category": "Moderate",
+   "Count": "65,148.95"
+ },
+ {
+   "YEAR": "2021_Q3",
+   "Category": "High",
+   "Count": "88,672.10"
+ },
+ {
+   "YEAR": "2021_Q3",
+   "Category": "Very High",
+   "Count": "508,203.13"
+ },
+ {
+   "YEAR": "2021_Q4",
+   "Category": "Low",
+   "Count": "131,943.39"
+ },
+ {
+   "YEAR": "2021_Q4",
+   "Category": "Moderate",
+   "Count": "99,774.08"
+ },
+ {
+   "YEAR": "2021_Q4",
+   "Category": "High",
+   "Count": "149,334.60"
+ },
+ {
+   "YEAR": "2021_Q4",
+   "Category": "Very High",
+   "Count": "397,989.35"
+ },
+ {
+   "YEAR": "2020_Q1",
+   "Category": "Low",
+   "Count": "88,662.60"
+ },
+ {
+   "YEAR": "2020_Q1",
+   "Category": "Moderate",
+   "Count": "106,126.59"
+ },
+ {
+   "YEAR": "2020_Q1",
+   "Category": "High",
+   "Count": "201,906.31"
+ },
+ {
+   "YEAR": "2020_Q1",
+   "Category": "Very High",
+   "Count": "382,345.91"
+ },
+ {
+   "YEAR": "2020_Q2",
+   "Category": "Low",
+   "Count": "71,722.13"
+ },
+ {
+   "YEAR": "2020_Q2",
+   "Category": "Moderate",
+   "Count": "111,430.45"
+ },
+ {
+   "YEAR": "2020_Q2",
+   "Category": "High",
+   "Count": "202,793.10"
+ },
+ {
+   "YEAR": "2020_Q2",
+   "Category": "Very High",
+   "Count": "393,095.74"
+ },
+ {
+   "YEAR": "2020_Q3",
+   "Category": "Low",
+   "Count": "70,463.12"
+ },
+ {
+   "YEAR": "2020_Q3",
+   "Category": "Moderate",
+   "Count": "94,338.88"
+ },
+ {
+   "YEAR": "2020_Q3",
+   "Category": "High",
+   "Count": "202,998.55"
+ },
+ {
+   "YEAR": "2020_Q3",
+   "Category": "Very High",
+   "Count": "411,240.86"
+ },
+ {
+   "YEAR": "2020_Q4",
+   "Category": "Low",
+   "Count": "120,355.89"
+ },
+ {
+   "YEAR": "2020_Q4",
+   "Category": "Moderate",
+   "Count": "97,595.32"
+ },
+ {
+   "YEAR": "2020_Q4",
+   "Category": "High",
+   "Count": "169,703.09"
+ },
+ {
+   "YEAR": "2020_Q4",
+   "Category": "Very High",
+   "Count": "391,387.11"
+ },
+ {
+   "YEAR": "2019_Q1",
+   "Category": "Low",
+   "Count": "65,033.10"
+ },
+ {
+   "YEAR": "2019_Q1",
+   "Category": "Moderate",
+   "Count": "77,062.50"
+ },
+ {
+   "YEAR": "2019_Q1",
+   "Category": "High",
+   "Count": "199,286.36"
+ },
+ {
+   "YEAR": "2019_Q1",
+   "Category": "Very High",
+   "Count": "437,659.45"
+ },
+ {
+   "YEAR": "2019_Q2",
+   "Category": "Low",
+   "Count": "121,164.82"
+ },
+ {
+   "YEAR": "2019_Q2",
+   "Category": "Moderate",
+   "Count": "99,968.09"
+ },
+ {
+   "YEAR": "2019_Q2",
+   "Category": "High",
+   "Count": "154,070.83"
+ },
+ {
+   "YEAR": "2019_Q2",
+   "Category": "Very High",
+   "Count": "403,837.67"
+ },
+ {
+   "YEAR": "2019_Q3",
+   "Category": "Low",
+   "Count": "121,410.75"
+ },
+ {
+   "YEAR": "2019_Q3",
+   "Category": "Moderate",
+   "Count": "109,104.31"
+ },
+ {
+   "YEAR": "2019_Q3",
+   "Category": "High",
+   "Count": "159,499.97"
+ },
+ {
+   "YEAR": "2019_Q3",
+   "Category": "Very High",
+   "Count": "389,026.38"
+ },
+ {
+   "YEAR": "2019_Q4",
+   "Category": "Low",
+   "Count": "56,051.04"
+ },
+ {
+   "YEAR": "2019_Q4",
+   "Category": "Moderate",
+   "Count": "103,924.46"
+ },
+ {
+   "YEAR": "2019_Q4",
+   "Category": "High",
+   "Count": "216,180.59"
+ },
+ {
+   "YEAR": "2019_Q4",
+   "Category": "Very High",
+   "Count": "402,885.31"
+ },
+ {
+   "YEAR": "2018_Q1",
+   "Category": "Low",
+   "Count": "95,908.62"
+ },
+ {
+   "YEAR": "2018_Q1",
+   "Category": "Moderate",
+   "Count": "97,359.96"
+ },
+ {
+   "YEAR": "2018_Q1",
+   "Category": "High",
+   "Count": "165,560.48"
+ },
+ {
+   "YEAR": "2018_Q1",
+   "Category": "Very High",
+   "Count": "420,212.35"
+ },
+ {
+   "YEAR": "2018_Q2",
+   "Category": "Low",
+   "Count": "85,414.15"
+ },
+ {
+   "YEAR": "2018_Q2",
+   "Category": "Moderate",
+   "Count": "91,901.10"
+ },
+ {
+   "YEAR": "2018_Q2",
+   "Category": "High",
+   "Count": "169,507.17"
+ },
+ {
+   "YEAR": "2018_Q2",
+   "Category": "Very High",
+   "Count": "432,219"
+ },
+ {
+   "YEAR": "2018_Q3",
+   "Category": "Low",
+   "Count": "95,353.44"
+ },
+ {
+   "YEAR": "2018_Q3",
+   "Category": "Moderate",
+   "Count": "88,839.82"
+ },
+ {
+   "YEAR": "2018_Q3",
+   "Category": "High",
+   "Count": "163,174.86"
+ },
+ {
+   "YEAR": "2018_Q3",
+   "Category": "Very High",
+   "Count": "431,673.30"
+ },
+ {
+   "YEAR": "2018_Q4",
+   "Category": "Low",
+   "Count": "128,424.37"
+ },
+ {
+   "YEAR": "2018_Q4",
+   "Category": "Moderate",
+   "Count": "98,641.80"
+ },
+ {
+   "YEAR": "2018_Q4",
+   "Category": "High",
+   "Count": "155,696.44"
+ },
+ {
+   "YEAR": "2018_Q4",
+   "Category": "Very High",
+   "Count": "396,278.80"
+ },
+ {
+   "YEAR": "2017_Q1",
+   "Category": "Low",
+   "Count": "74,132.89"
+ },
+ {
+   "YEAR": "2017_Q1",
+   "Category": "Moderate",
+   "Count": "82,899.92"
+ },
+ {
+   "YEAR": "2017_Q1",
+   "Category": "High",
+   "Count": "192,306.73"
+ },
+ {
+   "YEAR": "2017_Q1",
+   "Category": "Very High",
+   "Count": "429,701.87"
+ },
+ {
+   "YEAR": "2017_Q2",
+   "Category": "Low",
+   "Count": "126,507.17"
+ },
+ {
+   "YEAR": "2017_Q2",
+   "Category": "Moderate",
+   "Count": "99,441.66"
+ },
+ {
+   "YEAR": "2017_Q2",
+   "Category": "High",
+   "Count": "136,620.02"
+ },
+ {
+   "YEAR": "2017_Q2",
+   "Category": "Very High",
+   "Count": "416,472.57"
+ },
+ {
+   "YEAR": "2017_Q3",
+   "Category": "Low",
+   "Count": "136,916.32"
+ },
+ {
+   "YEAR": "2017_Q3",
+   "Category": "Moderate",
+   "Count": "76,781.50"
+ },
+ {
+   "YEAR": "2017_Q3",
+   "Category": "High",
+   "Count": "125,224.78"
+ },
+ {
+   "YEAR": "2017_Q3",
+   "Category": "Very High",
+   "Count": "440,118.80"
+ },
+ {
+   "YEAR": "2017_Q4",
+   "Category": "Low",
+   "Count": "82,912.44"
+ },
+ {
+   "YEAR": "2017_Q4",
+   "Category": "Moderate",
+   "Count": "90,914.38"
+ },
+ {
+   "YEAR": "2017_Q4",
+   "Category": "High",
+   "Count": "169,234.89"
+ },
+ {
+   "YEAR": "2017_Q4",
+   "Category": "Very High",
+   "Count": "435,979.69"
+ },
+ {
+   "YEAR": "2016_Q1",
+   "Category": "Low",
+   "Count": "59,047.15"
+ },
+ {
+   "YEAR": "2016_Q1",
+   "Category": "Moderate",
+   "Count": "92,612.02"
+ },
+ {
+   "YEAR": "2016_Q1",
+   "Category": "High",
+   "Count": "230,142.47"
+ },
+ {
+   "YEAR": "2016_Q1",
+   "Category": "Very High",
+   "Count": "397,239.77"
+ },
+ {
+   "YEAR": "2016_Q2",
+   "Category": "Low",
+   "Count": "80,443.81"
+ },
+ {
+   "YEAR": "2016_Q2",
+   "Category": "Moderate",
+   "Count": "111,456.92"
+ },
+ {
+   "YEAR": "2016_Q2",
+   "Category": "High",
+   "Count": "192,419.89"
+ },
+ {
+   "YEAR": "2016_Q2",
+   "Category": "Very High",
+   "Count": "394,720.78"
+ },
+ {
+   "YEAR": "2016_Q3",
+   "Category": "Low",
+   "Count": "87,435.01"
+ },
+ {
+   "YEAR": "2016_Q3",
+   "Category": "Moderate",
+   "Count": "105,985.84"
+ },
+ {
+   "YEAR": "2016_Q3",
+   "Category": "High",
+   "Count": "180,073.04"
+ },
+ {
+   "YEAR": "2016_Q3",
+   "Category": "Very High",
+   "Count": "405,547.52"
+ },
+ {
+   "YEAR": "2016_Q4",
+   "Category": "Low",
+   "Count": "100,965.46"
+ },
+ {
+   "YEAR": "2016_Q4",
+   "Category": "Moderate",
+   "Count": "93,879.69"
+ },
+ {
+   "YEAR": "2016_Q4",
+   "Category": "High",
+   "Count": "170,443.51"
+ },
+ {
+   "YEAR": "2016_Q4",
+   "Category": "Very High",
+   "Count": "413,752.75"
+ },
+ {
+   "YEAR": "2015_Q1",
+   "Category": "Low",
+   "Count": "70,471.28"
+ },
+ {
+   "YEAR": "2015_Q1",
+   "Category": "Moderate",
+   "Count": "99,040.59"
+ },
+ {
+   "YEAR": "2015_Q1",
+   "Category": "High",
+   "Count": "194,747.71"
+ },
+ {
+   "YEAR": "2015_Q1",
+   "Category": "Very High",
+   "Count": "414,781.83"
+ },
+ {
+   "YEAR": "2015_Q2",
+   "Category": "Low",
+   "Count": "83,752.48"
+ },
+ {
+   "YEAR": "2015_Q2",
+   "Category": "Moderate",
+   "Count": "112,200.91"
+ },
+ {
+   "YEAR": "2015_Q2",
+   "Category": "High",
+   "Count": "201,576.26"
+ },
+ {
+   "YEAR": "2015_Q2",
+   "Category": "Very High",
+   "Count": "381,511.76"
+ },
+ {
+   "YEAR": "2015_Q3",
+   "Category": "Low",
+   "Count": "124,426.08"
+ },
+ {
+   "YEAR": "2015_Q3",
+   "Category": "Moderate",
+   "Count": "105,101.33"
+ },
+ {
+   "YEAR": "2015_Q3",
+   "Category": "High",
+   "Count": "142,807.39"
+ },
+ {
+   "YEAR": "2015_Q3",
+   "Category": "Very High",
+   "Count": "406,706.62"
+ },
+ {
+   "YEAR": "2015_Q4",
+   "Category": "Low",
+   "Count": "109,052.68"
+ },
+ {
+   "YEAR": "2015_Q4",
+   "Category": "Moderate",
+   "Count": "113,548.57"
+ },
+ {
+   "YEAR": "2015_Q4",
+   "Category": "High",
+   "Count": "172,070.68"
+ },
+ {
+   "YEAR": "2015_Q4",
+   "Category": "Very High",
+   "Count": "384,369.49"
+ },
+ {
+   "YEAR": "2014_Q1",
+   "Category": "Low",
+   "Count": "87,696.32"
+ },
+ {
+   "YEAR": "2014_Q1",
+   "Category": "Moderate",
+   "Count": "98,698.90"
+ },
+ {
+   "YEAR": "2014_Q1",
+   "Category": "High",
+   "Count": "176,177.65"
+ },
+ {
+   "YEAR": "2014_Q1",
+   "Category": "Very High",
+   "Count": "416,468.54"
+ },
+ {
+   "YEAR": "2014_Q2",
+   "Category": "Low",
+   "Count": "106,376.81"
+ },
+ {
+   "YEAR": "2014_Q2",
+   "Category": "Moderate",
+   "Count": "90,653.42"
+ },
+ {
+   "YEAR": "2014_Q2",
+   "Category": "High",
+   "Count": "153,773.38"
+ },
+ {
+   "YEAR": "2014_Q2",
+   "Category": "Very High",
+   "Count": "428,237.80"
+ },
+ {
+   "YEAR": "2014_Q3",
+   "Category": "Low",
+   "Count": "65,125.54"
+ },
+ {
+   "YEAR": "2014_Q3",
+   "Category": "Moderate",
+   "Count": "79,048.89"
+ },
+ {
+   "YEAR": "2014_Q3",
+   "Category": "High",
+   "Count": "214,009.18"
+ },
+ {
+   "YEAR": "2014_Q3",
+   "Category": "Very High",
+   "Count": "420,857.79"
+ },
+ {
+   "YEAR": "2014_Q4",
+   "Category": "Low",
+   "Count": "96,039.78"
+ },
+ {
+   "YEAR": "2014_Q4",
+   "Category": "Moderate",
+   "Count": "107,366.04"
+ },
+ {
+   "YEAR": "2014_Q4",
+   "Category": "High",
+   "Count": "186,355.11"
+ },
+ {
+   "YEAR": "2014_Q4",
+   "Category": "Very High",
+   "Count": "389,280.48"
+ },
+ {
+   "YEAR": "2013_Q1",
+   "Category": "Low",
+   "Count": "121,030.23"
+ },
+ {
+   "YEAR": "2013_Q1",
+   "Category": "Moderate",
+   "Count": "80,580.66"
+ },
+ {
+   "YEAR": "2013_Q1",
+   "Category": "High",
+   "Count": "164,087.75"
+ },
+ {
+   "YEAR": "2013_Q1",
+   "Category": "Very High",
+   "Count": "413,342.77"
+ },
+ {
+   "YEAR": "2013_Q2",
+   "Category": "Low",
+   "Count": "99,832.57"
+ },
+ {
+   "YEAR": "2013_Q2",
+   "Category": "Moderate",
+   "Count": "103,100.75"
+ },
+ {
+   "YEAR": "2013_Q2",
+   "Category": "High",
+   "Count": "160,779.63"
+ },
+ {
+   "YEAR": "2013_Q2",
+   "Category": "Very High",
+   "Count": "415,328.46"
+ },
+ {
+   "YEAR": "2013_Q3",
+   "Category": "Low",
+   "Count": "87,959.25"
+ },
+ {
+   "YEAR": "2013_Q3",
+   "Category": "Moderate",
+   "Count": "104,908.28"
+ },
+ {
+   "YEAR": "2013_Q3",
+   "Category": "High",
+   "Count": "185,170.05"
+ },
+ {
+   "YEAR": "2013_Q3",
+   "Category": "Very High",
+   "Count": "401,003.83"
+ },
+ {
+   "YEAR": "2013_Q4",
+   "Category": "Low",
+   "Count": "95,060.97"
+ },
+ {
+   "YEAR": "2013_Q4",
+   "Category": "Moderate",
+   "Count": "90,118.44"
+ },
+ {
+   "YEAR": "2013_Q4",
+   "Category": "High",
+   "Count": "167,981.59"
+ },
+ {
+   "YEAR": "2013_Q4",
+   "Category": "Very High",
+   "Count": "425,880.40"
+ },
+ {
+   "YEAR": "2012_Q1",
+   "Category": "Low",
+   "Count": "104,672.64"
+ },
+ {
+   "YEAR": "2012_Q1",
+   "Category": "Moderate",
+   "Count": "96,957.96"
+ },
+ {
+   "YEAR": "2012_Q1",
+   "Category": "High",
+   "Count": "163,419.98"
+ },
+ {
+   "YEAR": "2012_Q1",
+   "Category": "Very High",
+   "Count": "413,990.83"
+ },
+ {
+   "YEAR": "2012_Q2",
+   "Category": "Low",
+   "Count": "102,642.47"
+ },
+ {
+   "YEAR": "2012_Q2",
+   "Category": "Moderate",
+   "Count": "86,785.58"
+ },
+ {
+   "YEAR": "2012_Q2",
+   "Category": "High",
+   "Count": "149,752.33"
+ },
+ {
+   "YEAR": "2012_Q2",
+   "Category": "Very High",
+   "Count": "439,861.04"
+ },
+ {
+   "YEAR": "2012_Q3",
+   "Category": "Low",
+   "Count": "108,225.73"
+ },
+ {
+   "YEAR": "2012_Q3",
+   "Category": "Moderate",
+   "Count": "77,596.71"
+ },
+ {
+   "YEAR": "2012_Q3",
+   "Category": "High",
+   "Count": "133,522.66"
+ },
+ {
+   "YEAR": "2012_Q3",
+   "Category": "Very High",
+   "Count": "459,696.31"
+ },
+ {
+   "YEAR": "2012_Q4",
+   "Category": "Low",
+   "Count": "116,009.45"
+ },
+ {
+   "YEAR": "2012_Q4",
+   "Category": "Moderate",
+   "Count": "99,074.68"
+ },
+ {
+   "YEAR": "2012_Q4",
+   "Category": "High",
+   "Count": "154,346.51"
+ },
+ {
+   "YEAR": "2012_Q4",
+   "Category": "Very High",
+   "Count": "409,610.77"
+ },
+ {
+   "YEAR": "2011_Q1",
+   "Category": "Low",
+   "Count": "135,687.32"
+ },
+ {
+   "YEAR": "2011_Q1",
+   "Category": "Moderate",
+   "Count": "88,214.91"
+ },
+ {
+   "YEAR": "2011_Q1",
+   "Category": "High",
+   "Count": "136,155.45"
+ },
+ {
+   "YEAR": "2011_Q1",
+   "Category": "Very High",
+   "Count": "418,983.73"
+ },
+ {
+   "YEAR": "2011_Q2",
+   "Category": "Low",
+   "Count": "88,087.80"
+ },
+ {
+   "YEAR": "2011_Q2",
+   "Category": "Moderate",
+   "Count": "91,828.55"
+ },
+ {
+   "YEAR": "2011_Q2",
+   "Category": "High",
+   "Count": "136,796.86"
+ },
+ {
+   "YEAR": "2011_Q2",
+   "Category": "Very High",
+   "Count": "462,328.21"
+ },
+ {
+   "YEAR": "2011_Q3",
+   "Category": "Low",
+   "Count": "116,893.10"
+ },
+ {
+   "YEAR": "2011_Q3",
+   "Category": "Moderate",
+   "Count": "94,393.83"
+ },
+ {
+   "YEAR": "2011_Q3",
+   "Category": "High",
+   "Count": "153,011.54"
+ },
+ {
+   "YEAR": "2011_Q3",
+   "Category": "Very High",
+   "Count": "414,742.95"
+ },
+ {
+   "YEAR": "2011_Q4",
+   "Category": "Low",
+   "Count": "117,795.22"
+ },
+ {
+   "YEAR": "2011_Q4",
+   "Category": "Moderate",
+   "Count": "108,122.98"
+ },
+ {
+   "YEAR": "2011_Q4",
+   "Category": "High",
+   "Count": "173,975.35"
+ },
+ {
+   "YEAR": "2011_Q4",
+   "Category": "Very High",
+   "Count": "379,147.86"
+ }
+]

@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Map and Charts</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        h1 {
+            text-align: center;
+            background-color: black;
+            color: rgb(80, 255, 138);
+            margin: 0;
+        }
+        
+        #grMeanValue {
+            color: rgb(113, 212, 123);
+        }
+        
+        #crMeanValue {
+            color: brown;
+        }
+        
+        #lstMeanValue {
+            color: rgb(86, 195, 199);
+        }
+        
+        body {
+            height: 100%;
+            background-color: black;
+            color: white;
+            display: flex;
+            width: 100%;
+            flex-direction: column;
+        }
+        
+        .container {
+            display: flex;
+            width: 100%;
+            height: 650px;
+        }
+        
+        .left-side {
+            display: flex;
+            flex-direction: column; /* Use column to stack map and bubble chart vertically */
+            width: 60%; /* Fill 60% of container */
+            height: 650px;
+            padding: 1px;
+            box-sizing: border-box;
+        }
+
+        .map-container {
+            width: 100%;
+            height: 350px;
+        }
+
+        /* Styling for the bubble chart container to make room for the legend */
+        .bubble-chart-container {
+            width: 100%;
+            display: flex;
+            align-items: left;
+            justify-content: left;
+            height: 300px;
+            margin-top: 1px;
+            position: relative;
+            background-color: #1c1c1c;
+        }
+        #bubbleChart {
+            flex-grow: 1; /* Ensure that the bubble chart stretches to fill available space */
+            width: 100%;  /* Make sure the canvas stretches the full width */
+            height: 100%;
+        }
+
+/* New styling for the carbon mean legend */
+.carbon-legend {
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    max-width: 120px;
+    margin-left: 10px;
+    text-align: left;
+    padding-top: 60px;
+}
+
+.carbon-legend h4 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(255, 253, 251);
+}
+
+.carbon-legend ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.carbon-legend li {
+    margin: 3px 0;
+    display: flex;
+    align-items: center;
+    
+}
+
+/* Styling for the color box next to each range */
+.color-box {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 6px;
+}
+
+        
+        .right-side {
+            display: flex;
+            width: 40%;
+            height: 650px;
+            padding: 1px;
+            margin-right: 5px;
+            box-sizing: border-box;
+            right: 1px;
+        }
+        
+        .chart-column {
+            flex-basis: 62%;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        
+        .chart-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            color: white;
+            background-color: #1c1c1c;
+            text-align: center;
+            border-radius: 5px;
+            height: 250px;
+            max-height: 250px;
+            margin-left: 5px;
+        }
+        
+        .value-column {
+            flex-basis: 38%;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        
+        .mean-value {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 30px;
+            color: white;
+            background-color: #1c1c1c;
+            text-align: center;
+            border-radius: 5px;
+            height: 250px;
+        }
+        
+        .legend-container {
+            background: rgba(0, 0, 0, 0.8);
+            padding: 2px;
+            border-radius: 4px;
+            font-size: 10px;
+            max-width: 150px;
+            color: #333;
+        }
+        
+        .legend-container h4 {
+            margin: 0;
+            color: rgb(255, 253, 251);
+            font-size: 14px;
+            font-weight: bold;
+        }
+        
+        .legend-container img {
+            width: 80%;
+            margin-top: 5px;
+        }
+        
+    </style>
+</head>
+<body>
+    <h1>AEROGREEN ANALYTICS</h1>
+
+    <div id="controls">
+        <label for="yearSelect">Year:</label>
+        <select id="yearSelect"></select>
+        <label for="quarterSlider">Quarter:</label>
+        <input type="range" id="quarterSlider" min="1" max="4" value="1">
+        <span id="quarterLabel">Q1</span>
+    </div>
+
+    <div class="container">
+        
+        <div class="right-side">
+            <div class="value-column">
+                <div class="mean-value" id="grMeanValue"></div>
+                <div class="mean-value" id="crMeanValue"></div>
+                <div class="mean-value" id="lstMeanValue"></div>
+            </div>
+
+            <div class="chart-column">
+                <div class="chart-container"><canvas id="grPercentChart"></canvas></div>
+                <div class="chart-container"><canvas id="crMeanChart"></canvas></div>
+                <div class="chart-container"><canvas id="categoryPieChart"></canvas></div>
+            </div>
+        </div>
+
+        <div class="left-side">
+            <div class="map-column">
+               <div id="map" class="map-container"></div>
+               <div id="legendContainer" class="legend-container"></div>
+               <div class="bubble-chart-container">
+                 <canvas id="bubbleChart" ></canvas>
+                 <div id="carbonLegend" class="carbon-legend"> <!-- New div for the legend -->
+                    <h4>Carbon Mean Legend</h4>
+                    <ul>
+                        <li><span class="color-box" style="background-color: rgba(255, 204, 204, 1);"></span> Below 0.0255</li>
+                        <li><span class="color-box" style="background-color: rgba(255, 153, 153, 1);"></span> 0.0255 - 0.0260</li>
+                        <li><span class="color-box" style="background-color: rgba(255, 102, 102, 1);"></span> 0.0260 - 0.0265</li>
+                        <li><span class="color-box" style="background-color: rgba(255, 51, 51, 1);"></span> 0.0265 - 0.0270</li>
+                        <li><span class="color-box" style="background-color: rgba(204, 0, 0, 1);"></span> 0.0270 - 0.0275</li>
+                        <li><span class="color-box" style="background-color: rgba(153, 0, 0, 1);"></span> Above 0.0275</li>
+                    </ul>
+                </div>
+               </div>
+            </div>
+         </div>
+
+    </div>
+
+    
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="static/app.js"></script>
+</body>
+</html>
+
